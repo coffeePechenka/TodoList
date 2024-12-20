@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #00A8CC;
+    /* font-family: "Edu AU VIC WA NT Hand", cursive; */
+    /* font-family: "Bebas Neue", sans-serif; */
+    font-family: "PT Sans Narrow", sans-serif;
+}
+
+body{
+    background-color: #142850;
+}
